@@ -1,0 +1,9 @@
+
+✅ Got it! Based on your input:
+- Subject: coding
+- Difficulty: 9
+- Mood: tired
+- Focus Level: 2
+
+📘 Recommendation: Study for 25 minutes using passive methods (watch a video, review notes).
+📅 I suggest reviewing this again tomorrow.
