@@ -5,4 +5,4 @@ They cover a range of topics including data preprocessing, supervised and unsupe
 
 Projects are built using Python and popular libraries like scikit-learn, TensorFlow, PyTorch, and more.
 
-Feel free to explore, learn, and fork!
+Feel free to explore, learn some basics and fork!
